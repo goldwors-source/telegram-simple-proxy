@@ -1,0 +1,16 @@
+{
+  "name": "telegram-simple-proxy",
+  "version": "1.0.0",
+  "description": "Простой прокси для отправки форм в Telegram",
+  "main": "api/telegram.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "node api/telegram.js"
+  },
+  "engines": {
+    "node": ">=18.x"
+  },
+  "keywords": ["telegram", "proxy", "form", "vercel"],
+  "author": "",
+  "license": "MIT"
+}
